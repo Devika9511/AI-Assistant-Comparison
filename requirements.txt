@@ -1,0 +1,12 @@
+streamlit
+transformers
+torch
+accelerate
+openai
+python-dotenv
+sentence-transformers
+faiss-cpu
+pandas
+matplotlib
+langsmith
+langchain
